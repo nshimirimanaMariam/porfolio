@@ -1,0 +1,77 @@
+
+header li{
+    display: inline-block;
+    padding: 10px;
+    text-align: center;  
+ 
+ }
+
+h1 {
+    text-align: center;
+    color: rgb(165, 42, 124);
+    font-size: Italic;
+  }
+  
+p {
+    display: inline-block;
+    text-align: center;
+    }
+    
+img {
+    padding: 50px;
+    width: 500px;
+    height: 300px;
+    margin: left 10px;
+    margin-right: 10px;
+    }
+    
+header {
+    background-color: darkgrey;
+    border: 1px solid gainsboro;
+  }
+
+  header a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    }
+   
+    h2 {
+        text-align: center;
+      }
+      p{
+        text-align: center;
+        
+
+      }
+      head {
+        text-align: center;
+      }
+      
+    .glouglou {
+      text-align: center;
+      border: 1px solid;
+      border-color: gray;
+      border-top: 10px;
+    }
+    ul {
+        columns: 2;
+      }
+      #form {
+        text-align: initial;
+      }
+      input,
+      label {
+        display: block;
+      }
+      button {
+        background-color: rgb(12, 8, 8);
+      }
+      footer {
+        text-align: center;
+        background-color: rgb(126, 9, 9);
+      }
+
+
+    
+

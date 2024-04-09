@@ -1,0 +1,18 @@
+
+h1{
+    font-size:50px;
+    color:green;
+}
+ol {
+    font-weight: 900;
+    color:red;
+    }
+    p {
+        text-transform:uppercase;
+        border: 4px;
+        color: rgb(0, 183, 255);
+        opacity: 0.5;
+    }
+    
+
+    
